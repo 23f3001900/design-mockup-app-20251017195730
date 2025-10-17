@@ -1,6 +1,18 @@
-# ProjectName
+# Modern Landing Page
 
-A simple landing page created using HTML and CSS with responsive design.
+A simple and modern landing page built with HTML, CSS, and JavaScript. Includes features like dark mode toggle, feature comparison table, and animations.
+
+## Features
+
+- Responsive design
+- Dark mode toggle
+- Feature comparison section
+- Animations (fade-in, slide-in)
+- Gradient buttons
+
+## Usage
+
+Simply open the `index.html` file in your web browser.
 
 ## License
 
